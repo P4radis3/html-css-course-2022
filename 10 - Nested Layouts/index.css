@@ -2,6 +2,9 @@
 .container {display: flex;}
 .imageone {width: 250px; height: 180px; padding-right: 15px;}
 .imagetwo {display: grid; width: 250px; height: 180px; padding-right: 15px;}
+.container {display: inline-block;}
+.imageone {top: 0; left: 0; position: relative;}
+.imagetwo {bottom: -350px; left: -395px; position: relative;}
 .title {font-weight: bold; color: black; width: 250px; height: 45px; margin: 0;}
 .description {padding: 0; margin: 0;}
 .views {padding: 0; margin: 0;}
