@@ -1,0 +1,4 @@
+.shadow {box-shadow: 0 0 6px rgba(0, 0, 0, 0.3); display: inline-block; border-radius: 6px; width: 300px; padding: 12px 12px 12px 12px;}
+.Picture {width: 50px; object-fit: cover; object-position: center; border-radius: 100px; vertical-align: middle;}
+.Button {background-color: rgb(29, 155, 240); color: white; border: none; padding: 8px 16px 8px 16px; border-radius: 30px; font-size: 16px; font-weight: bold; vertical-align: middle;}
+.text-box {font-size: 18px; border: none; width: 150px; vertical-align: middle;}

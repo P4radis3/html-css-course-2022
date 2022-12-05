@@ -1,0 +1,7 @@
+* {font-family: Arial, Helvetica, sans-serif;}
+.container {display: flex;}
+.imageone {width: 250px; height: 180px; padding-right: 15px;}
+.imagetwo {display: grid; width: 250px; height: 180px; padding-right: 15px;}
+.title {font-weight: bold; color: black; width: 250px; height: 45px; margin: 0;}
+.description {padding: 0; margin: 0;}
+.views {padding: 0; margin: 0;}
