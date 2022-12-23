@@ -1,8 +1,8 @@
-p {font-family: Arial; vertical-align: top; margin: 0; padding: 0;}
-.container {box-shadow: 0 0 6px rgba(0, 0, 0, 0.3); display: inline-block;}
-.container_left {box-shadow: 0 0 6px rgba(0, 0, 0, 0.3); display: inline-block; margin: 0 10px;}
-img {object-fit: cover; width: 190px; height: 200px;}
-.name {font-weight: bold; font-size: 20px; padding-bottom: 3px; padding-left: 5px;}
-.mutual {color: grey; font-size: 16px; margin-top: 3px; padding-left: 20px;}
-.mutualfriend {height: 50px; width: 50px; padding: 0; margin: 0;}
-.addfriend {border: none; color: white; background-color: rgb(0, 110, 255); width: 90px; height: 30px; border-radius: 5px; margin-top: 7px; margin-bottom: 10px; margin-left: +10px; cursor: pointer;}
+p {font-family: Arial; margin: 0;}
+.profile {width: 200px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); display: inline-block; vertical-align: top; margin-right: 15px;}
+.profile-picture {width: 200px; height: 200px; object-fit: cover; margin-bottom: 12px;}
+.name {font-size: 18px; font-weight: bold; margin: 0 8px 5px;}
+.mutual-row {margin: 0 8px 10px;}
+.mutual-friend-picture {height: 28px; width: 28px; object-fit: cover; border-radius: 14px; vertical-align: middle; margin-right: 4px;}
+.mutual-friends {display: inline-block; vertical-align: middle; color: rgb(100, 100, 100);}
+.add-friend-button {background-color: rgb(24, 119, 242); color: white; border: none; padding: 10px 20px 10px 20px; margin: 8px 10px; border-radius: 4px; font-size: 16px;}
